@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Grain de blé - IEV 1014</title>
+  <author>Paroles et musique: Communauté du Chemin Neuf</author>
+  <copyright>©Communauté du Chemin Neuf</copyright>
+  <hymn_number></hymn_number>
+  <presentation>v1 v2 </presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+[v1]
+ Grain de blé qui tombe en terre,
+ Si tu ne meurs pas
+ Tu resteras solitaire,
+ Ne germeras pas.
+
+[v2]
+ Qui à Jésus s’abandonne
+ Trouve la vraie vie.
+ Heureux l’homme qui se donne,
+ Il sera béni.
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

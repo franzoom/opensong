@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Agnus</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C1 C1 C2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+[C1]
+ Agneau de Dieu qui enlèves
+ les péchés du monde,
+ Prends pitié de nous,
+ Prends pitié de nous.
+
+[C2]
+ Agneau de Dieu qui enlèves
+ les péchés du monde,
+ Donne-nous la paix,
+ Donne-nous la paix.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="body" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

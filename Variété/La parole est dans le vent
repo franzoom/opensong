@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>La parole est dans le vent</title>
+  <lyrics>[V1]
+ Combien de routes
+ Un garçon peut-il faire
+ Avant qu'un homme il ne soit ?
+ Combien l'oiseau
+ Doit-il franchir de mers
+ Avant de s'éloigner du froid ?
+ Combien de morts
+ Un canon peut-il faire
+ Avant que l'on oublie sa voix ?
+
+[C1]
+ Ecoute mon ami,
+ Ecoute dans le vent,
+ Ecoute la réponse dans le vent.
+
+[V2]
+ Combien de fois
+ Doit-on lever les yeux
+ Avant que de voir le soleil ?
+ Combien d'oreilles
+ Faut-il aux malheureux
+ Avant d'écouter leurs pareils ?
+ Combien de pleurs faut-il
+ À l'homme heureux
+ Avant que son coeur ne s'éveille ?
+
+[V3]
+ Combien d'années
+ Faudra-t-il à l'esclave
+ Avant d'avoir sa liberté ?
+ Combien de temps
+ Un soldat est-il brave
+ Avant de mourir oublié ?
+ Combien de mers
+ Doit franchir la colombe
+ Avant que nous vivions en paix ?
+</lyrics>
+  <author>Hugues Aufray</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C1 V2 C1 V3 C1</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

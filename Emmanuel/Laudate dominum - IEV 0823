@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Laudate Sominum - IEV 0823</title>
+ <author>D’après Ps 150 Musique: J. Berthier</author>
+ <copyright>©Ateliers et Presses de Taizé</copyright>
+ <hymn_number></hymn_number>
+ <presentation>C1 V1 C1 V2 C1</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>
+[c1]
+ Laudate Dominum, laudate Dominum
+ Omnes gentes, Alleluia (bis)
+
+[v1]
+ Louez Dieu, louez Dieu, dans son temple saint,
+ Louez Dieu au ciel de sa puissance,
+ Louez-le, pour ses actions éclatantes,
+ Louez-le, louez-le, selon sa grandeur.
+
+[v2]
+ Alléluia, Alléluia,
+ Que tout être vivant chante louange au Seigneur! (bis)
+
+</lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

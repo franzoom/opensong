@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ubi caritas</title>
+  <author>D’après la Liturgie Catholique - Musique: J. Berthier</author>
+  <copyright>©Ateliers et Presses de Taizé</copyright>
+  <hymn_number></hymn_number>
+  <presentation>v1 </presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+[v1]
+ Ubi caritas,
+ Et amor,
+ Ubi caritas,
+ Deus ibi est.
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

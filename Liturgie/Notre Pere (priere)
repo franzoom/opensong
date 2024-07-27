@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Notre Père (prière)</title>
+ <lyrics>[V1]
+ Notre Père, qui es aux cieux,
+ que ton nom soit sanctifié,
+ que ton règne vienne,
+ que ta volonté soit faite sur la terre comme au ciel.
+
+[V2]
+ Donne-nous aujourd’hui notre pain de ce jour.
+ Pardonne-nous nos offenses,
+ comme nous pardonnons aussi à ceux qui nous ont offensés.
+ Et ne nous laisse pas entrer en tentation
+ mais délivre-nous du Mal.
+ Amen</lyrics>
+ <author></author>
+ <copyright></copyright>
+ <hymn_number></hymn_number>
+ <presentation>V1 V2</presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <linked_songs/>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

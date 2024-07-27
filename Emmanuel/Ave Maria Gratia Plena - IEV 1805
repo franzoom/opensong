@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ave Maria Gratia Plena</title>
+  <author>Paroles: Ave Maria - Musique: L.-M. Gaisne</author>
+  <copyright>©2009, Éditions de l’Emmanuel</copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+ Ave Maria,
+ Gratia plena, Dominus tecum.
+ Benedicta tu in mulieribus;
+ Et benedictus fructus
+ Ventris tui, Jesus
+
+[V2]
+ Sancta Maria, Mater Dei,
+ Ora pro nobis peccatoribus,
+ Nunc et in hora mortis nostræ.
+ Ave Maria.
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

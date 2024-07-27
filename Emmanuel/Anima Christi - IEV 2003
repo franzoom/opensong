@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Anima Christi</title>
+  <author>Paroles: Liturgie Catholique Romaine - Musique: M. Frisina</author>
+  <copyright>©M. Frisina </copyright>
+  <hymn_number></hymn_number>
+  <presentation>C1 V1 C1 V2 C1 V3 C1</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[c1]
+ Anima Christi, sanctifica me.
+ Corpus Christi, salva me.
+ Sanguis Christi, inebria me.
+ Aqua lateris Christi, lava me.
+
+[v1]
+ Passio Christi, conforta me.
+ O bone Jesu, exaudi me. 
+ Intra vulnera tua absconde,
+ Absconde me.
+
+[v2]
+ Ne permittas a te me separari. 
+ Ab hoste maligno defende me 
+ In hora mortis meae voca me, voca me.
+
+[v3]
+ Et iube me venire ad te,
+ Ut cum sanctis tuis laudem te
+ Per infinita saecula saeculorum.
+ Amen.
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

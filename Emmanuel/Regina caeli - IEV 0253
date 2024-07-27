@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Regina caeli - IEV 0253</title>
+ <author>Liturgie catholique et romaine</author>
+ <copyright>None</copyright>
+ <hymn_number></hymn_number>
+ <presentation>v1 </presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>
+[v1]
+ Regina caeli, laetare, alléluia,
+ Qui quem meruisti portare, alléluia
+ Resurrexit, sicut dixit, alléluia;
+ Ora pro nobis Deum, alléluia.
+</lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

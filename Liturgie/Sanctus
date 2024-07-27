@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Sanctus (français)</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C1 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+[c1]
+ Saint, Saint , Saint le Seigneur
+ Dieu de l’univers!
+ Saint, Saint , Saint le Seigneur
+ Dieu de l’univers!
+
+[v1]
+ Le ciel et la terre
+ sont remplis de ta gloire.
+ Hosanna au plus haut des cieux!
+
+[v2]
+ Béni soit celui qui vient
+ au Nom du Seigneur.
+ Hosanna au plus haut des cieux!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

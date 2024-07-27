@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="201908-06T11:28:42">
+  <title>En paix, Seigneur, je m’endors</title>
+  <copyright>©2016, Éditions de l’Emmanuel</copyright>
+  <author>Paroles et musique: B. Carraud</author>
+  <songbooks>
+  <songbook name="IEV 201819" entry="342"/>
+</songbooks>
+  <themes>
+  <theme>Méditation et confiance</theme></themes>
+  <presentation>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</presentation>
+  <lyrics>[c1]
+ En paix, Seigneur, je m’endors
+ Car en toi, ô mon Dieu, ma vie repose. 
+
+[v1]
+ Je te rends grâce, ô Seigneur,
+ J’ai tout reçu de ta main,
+ Créateur de toute chose.
+
+[v2]
+ Ma vie présente, ô mon Dieu,
+ Mon avenir, mon passé, 
+ En ce jour, je te les offre.
+
+[v3]
+ Tous mes péchés, tu les sais
+ Mais ton regard me guérit. 
+ Ta tendresse me relève. 
+
+[v4]
+ Dans le silence et la nuit,
+ Envoie sur moi ton Esprit,
+ Qu’il me couvre et me protège.
+
+[v5]
+ Mon cœur est empli de joie
+ Car tu fais lever sur moi
+ La lumière de ta face.
+</lyrics>
+  <hymn_number></hymn_number>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

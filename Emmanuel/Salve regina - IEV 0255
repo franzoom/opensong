@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Salve regina - IEV 0255</title>
+ <author>Liturgie catholique et romaine</author>
+ <copyright>None</copyright>
+ <hymn_number></hymn_number>
+ <presentation>v1 </presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>
+[v1]
+ Salve Regina, Mater misericordiae,
+ Vita, dulcedo, et spes nostra, salve.
+ Ad te clamamus, exsules filii Evae.
+ Ad te suspiramus, gementes et flentes in hac lacrimarum valle.
+ Eia ergo, advocata nostra, illos tuos misericordes oculos ad nos converte.
+ Et Jesum, benedictum fructum ventris tui,
+ Nobis post hoc exsilium ostende.
+ O clemens, o pia, o dulcis Virgo Maria
+</lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Je vous salue Marie - IEV 1020</title>
+ <author>Musique: Père Louis Harmonisation: R. Magnabosco</author>
+ <copyright>©R. Magnabosco</copyright>
+ <hymn_number></hymn_number>
+ <presentation>v1 </presentation>
+ <ccli></ccli>
+ <capo print="false"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>
+[v1]
+ Je vous salue Marie, pleine de grâce,
+ Le Seigneur est avec vous,
+ Vous êtes bénie entre toutes les femmes
+ Et Jésus, le fruit de vos entrailles est béni.
+ Sainte Marie, mère de Dieu, priez pour nous pauvres pécheurs,
+ Maintenant et à l’heure de la mort. Amen.
+</lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

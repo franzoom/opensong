@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+ <title>Magnificat (latin)</title>
+ <author>Paroles et musique: Liturgie Catholique Romaine</author>
+ <copyright>None</copyright>
+ <hymn_number></hymn_number>
+ <presentation>v1 </presentation>
+ <ccli></ccli>
+ <capo print="false" sharp="true"></capo>
+ <key></key>
+ <aka></aka>
+ <key_line></key_line>
+ <user1></user1>
+ <user2></user2>
+ <user3></user3>
+ <theme></theme>
+ <tempo></tempo>
+ <time_sig></time_sig>
+ <lyrics>
+[v1]
+ Magnificat anima mea dominum,
+ Et exultavit spiritus meus in Deo salutari meo.
+
+ Quia respexit humilitatem ancillae suae;
+ Ecce enim ex hoc beatam me dicent omnes generationes.
+
+ Quia fecit mihi magna qui potens est;
+ Et sanctum nomen ejus.
+
+ Et misericordia ejus a progenie in progenies 
+ Timentibus eum.
+
+ Fecit potentiam in brachio suo:
+ Dispersit superbos mente cordis sui.
+
+ Deposuit potentes de sede,
+ Et exaltavit humiles.
+
+ Esurientes implevit bonis
+ Et divites dimisit inanes.
+
+ Suscepit Israel puerum suum,
+ Recordatus misericordiae suae.
+
+ Sicut locutus et ad patres nostros,
+ Abraham, et semini ejus in saecula.</lyrics>
+ <linked_songs/>
+ <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

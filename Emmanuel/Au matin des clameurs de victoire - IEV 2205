@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="201908-06T11:28:24">
+  <title>Au matin, des clameurs de victoire</title>
+  <copyright>©2016, Éditions de l’Emmanuel</copyright>
+  <author>Paroles et musique: E. Durier</author>
+  <songbooks>
+  <songbook name="IEV 201819" entry="112"/>
+</songbooks>
+  <themes>
+  <theme>Louange</theme></themes>
+  <presentation>v1 c1 v2 c1 v3 c1 b1 </presentation>
+  <lyrics>[v1]
+ Au matin, des clameurs de victoire:
+ Ciel et terre éclatent en cris de joie. 
+ Au son des trompettes et des tambours, 
+ Tout l’univers jubile en ce jour. 
+
+[c1]
+ Alléluia, le Christ est vivant, 
+ Jésus est vraiment ressuscité! 
+ Alléluia, le Christ est vivant, 
+ Jésus est vraiment ressuscité!
+
+[v2]
+ Alléluia, louons le Seigneur,
+ Jésus a terrassé l’ennemi. 
+ Au milieu de la nuit de la mort,
+ La lumière du Christ a jailli!
+
+[v3]
+ Alléluia la mort est vaincue,
+ En sa chair, Jésus l’a crucifiée! 
+ Le pouvoir des ténèbres est détruit,
+ Jésus nous fait le don de sa vie! 
+
+[b1]
+ La mort est vaincue et l’enfer dévasté,
+ Jésus, le Seigneur, est ressuscité!
+
+</lyrics>
+  <hymn_number></hymn_number>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

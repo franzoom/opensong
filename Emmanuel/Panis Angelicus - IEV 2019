@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Panis Angelicus - IEV 2019</title>
+  <author>Paroles et musique: C. Suijkerbuijk</author>
+  <copyright>©2013, Éditions de l’Emmanuel</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C1 C2</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[c1]
+ Panis angelicus
+ Fit panis hominum;
+ Dat panis caelicus
+ Figuris terminum.
+ O Res mirabilis,
+ Manducat Dominum
+ Pauper, servus et humilis,
+ Pauper, servus et humilis.
+ 
+[c2]
+ Te Trina Deitas
+ Unaque poscimus:
+ Sic nos tu visita,
+ Sicut te colimus;
+ Per tuas semitas
+ Duc nos quo tendimus,
+ Ad lucem quam inhabitas,
+ Ad lucem quam inhabitas.
+ Amen.
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

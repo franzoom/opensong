@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hosanna, tu es saint</title>
+  <author>Paroles et musique: S.-M. Drouineau</author>
+  <copyright>©2007, Éditions de l’Emmanuel</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C1 V1 C1 V2 C1 V3 C1</presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+
+[c1]
+ O Dieu, à toi l’honneur, la gloire et la splendeur,
+ Hosanna, tu es Saint!
+ O Dieu tu es mon chant, ma force et mon salut,
+ Hosanna, tu es Saint!
+
+[c1] 
+ Tu es Saint Père du ciel,
+ Toi le Créateur de l’univers.
+ Tu es l’Amour éternel!
+ 
+[c2]
+ Tu es Saint Jésus Sauveur,
+ Toi le Roi et le Libérateur.
+ Tu es l’Amour éternel!
+
+[c3] 
+ Tu es Saint Esprit de Dieu,
+ Toi qui emplis la terre et les cieux.
+ Tu es l’Amour éternel!
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

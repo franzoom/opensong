@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Victoire, tu règneras</title>
+  <author>Paroles et harmonisation (sur une mélodie slave): D Julien</author>
+  <copyright>©Éditions Fleurus</copyright>
+  <hymn_number></hymn_number>
+  <presentation>c1 v1 c1 v2 c1 v3 c1 </presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>
+[c1]
+ Victoire! tu régneras!
+ O croix, tu nous sauveras!
+
+[v1]
+ Rayonne sur le monde
+ Qui cherche la vérité
+ O croix, source féconde
+ D’amour et de liberté.
+
+[v2]
+ Redonne la vaillance
+ Au pauvre et au malheureux;
+ C’est toi, notre espérance,
+ Qui nous mèneras vers Dieu.
+
+[v3]
+ Rassemble tous nos frères
+ À l’ombre de tes grands bras.
+ Par toi, Dieu notre Père
+ Au ciel nous accueillera.
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
